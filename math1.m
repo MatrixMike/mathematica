@@ -2,7 +2,7 @@ h[x_] := f[x] + g[x]
 
 Map[h, {a, b, c}]
 
-Map[h, {a, b, c}]
+Graphics[Table[Circle[{x, 0}, x], {x, 10}]]
 
 Manipulate[Plot[Sin[ax],{x,0,10}],{a,1,5}]
 
