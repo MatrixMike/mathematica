@@ -91,6 +91,4 @@ RunProcess["ps", "StandardOutput"]
 
 $ProcessorCount
 
-Exit[]
-
 
